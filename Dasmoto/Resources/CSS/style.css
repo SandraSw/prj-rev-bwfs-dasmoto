@@ -1,0 +1,36 @@
+html {
+  font-family: helvetica;
+}
+
+.mainbanner {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("/Users/sandraswiercz/Documents/Projects/Dasmoto/Resources/pattern.jpeg");
+}
+
+.hacksaw h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+.frames h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+.finnish h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+
+strong {
+  color: blue;
+}
